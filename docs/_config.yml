@@ -1,0 +1,14 @@
+title: 每月费用清单
+lang: cn
+description: 每月费用清单
+
+remote_theme: rundocs/jekyll-rtd-theme
+
+readme_index:
+  with_frontmatter: true
+
+exclude:
+  - Makefile
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
